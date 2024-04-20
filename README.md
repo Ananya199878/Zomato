@@ -19,5 +19,5 @@ The analysis is conducted using DAX measures and visualizations to provide a com
    These measures are calculated using DAX functions based on the data.*
 2. **Find top cities by sales and quantity sold** : *Used DAX functions RANKX to find the top cities by sales amount and Quantity.*
 3. **Create KPI cards**: *KPI (Key Performance Indicator) cards are used to visually represent important metrics
-   like sold amount, sold quantity, rating count, and order count. These cards provide a quick overview of performance.*
+   like sold amount, sold quantity, rating count, and order count. These cards provide a quick overview of performance.**
 4.**Analyze sales trend by year**: *Used a line chart to analyze the sales trend over the years.*
