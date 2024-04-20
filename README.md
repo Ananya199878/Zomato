@@ -8,11 +8,11 @@ This Power BI project analyzes Zomato data to gain insights into sales performan
 The analysis is conducted using DAX measures and visualizations to provide a comprehensive understanding of the data.
 
 ## Key components
-1. **Food Table*
-2. **Menu Table*
-3. **Order Table*
-4. **Restuarent Table*
-5. **users Table*
+1. *Food Table*
+2. *Menu Table*
+3. *Order Table*
+4. *Restuarent Table*
+5. *users Table*
 
 ## Analysis Report
 1. **Create a table with DAX measures**: *Created a table that includes various measures such as sales_Value, rating count,topN_city and order count.
